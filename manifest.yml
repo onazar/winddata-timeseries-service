@@ -21,7 +21,7 @@ env:
     predix_poolMaxSize: 200
     defaultMaxPerRoute: 25
     predix_wspool_maxIdle : 5
-	predix_wspool_maxActive : 5
-	predix_wspool_maxWait : 8000
-	predix_wspool_maxInstances : 5
+    predix_wspool_maxActive : 5
+    predix_wspool_maxWait : 8000
+    predix_wspool_maxInstances : 5
     
