@@ -13,6 +13,8 @@ NOTE: This application relies on setting up of UAA and Time Series service insta
 
 ##Run integration tests
 
+1. Ensure you have set up your predix.io username/encrypted password in the maven settings.xml.  Instruction are found [here](https://www.predix.io/resources/tutorials/tutorial-details.html?tutorial_id=1560&tag=1608&journey=Development%20tools%20and%20tips&resources=1565,1560).
+
 1. Edit config/application-external.properties as follows. For further information on configuring Predix Time Series service, please refer to the tutorials called [Exploring Time Series](https://www.predix.io/resources/tutorials/journey.html#Journey.Exploring Time Series).
 
 ```
